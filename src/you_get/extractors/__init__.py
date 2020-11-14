@@ -87,3 +87,4 @@ from .youtube import *
 from .zhanqi import *
 from .zhibo import *
 from .zhihu import *
+from .xuexi import *
